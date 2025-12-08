@@ -7,4 +7,4 @@ how to use :
 3.very good very nice 
 ==========================================
 preview:
-<img width="1052" height="744" alt="shitfuck microcontroler (1)" src="https://github.com/user-attachments/assets/84800191-519e-4546-b4db-5d38fca7c32e" />
+<img width="1052" height="744" alt="shitfuck microcontroler (3)" src="https://github.com/user-attachments/assets/e544c485-5017-41d7-9dca-38f4b48a784b" />
