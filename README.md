@@ -8,3 +8,5 @@ how to use :
 ==========================================
 preview:
 <img width="1052" height="744" alt="shitfuck microcontroler (3)" src="https://github.com/user-attachments/assets/e544c485-5017-41d7-9dca-38f4b48a784b" />
+also plz donate here for the building of the computer (very optional and if u did i am very great full of u)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a3694727-6c32-4b33-8d31-ed303e9e27a6" />
