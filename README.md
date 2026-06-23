@@ -53,16 +53,6 @@
 
 <hr>
 
-<p>
-also plz donate here for the building of the computer<br>
-very optional and if u did i am very great full of u
-</p>
-
-<img
-  width="250"
-  alt="image"
-  src="https://github.com/user-attachments/assets/a3694727-6c32-4b33-8d31-ed303e9e27a6"
-/>
 
 <hr>
 
